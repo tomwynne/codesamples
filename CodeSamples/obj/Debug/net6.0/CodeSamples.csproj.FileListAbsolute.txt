@@ -1,0 +1,15 @@
+D:\Projects\CodeSamples\CodeSamples\bin\Debug\net6.0\CodeSamples.exe
+D:\Projects\CodeSamples\CodeSamples\bin\Debug\net6.0\CodeSamples.deps.json
+D:\Projects\CodeSamples\CodeSamples\bin\Debug\net6.0\CodeSamples.runtimeconfig.json
+D:\Projects\CodeSamples\CodeSamples\bin\Debug\net6.0\CodeSamples.dll
+D:\Projects\CodeSamples\CodeSamples\bin\Debug\net6.0\CodeSamples.pdb
+D:\Projects\CodeSamples\CodeSamples\obj\Debug\net6.0\CodeSamples.csproj.AssemblyReference.cache
+D:\Projects\CodeSamples\CodeSamples\obj\Debug\net6.0\CodeSamples.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\CodeSamples\CodeSamples\obj\Debug\net6.0\CodeSamples.AssemblyInfoInputs.cache
+D:\Projects\CodeSamples\CodeSamples\obj\Debug\net6.0\CodeSamples.AssemblyInfo.cs
+D:\Projects\CodeSamples\CodeSamples\obj\Debug\net6.0\CodeSamples.csproj.CoreCompileInputs.cache
+D:\Projects\CodeSamples\CodeSamples\obj\Debug\net6.0\CodeSamples.dll
+D:\Projects\CodeSamples\CodeSamples\obj\Debug\net6.0\refint\CodeSamples.dll
+D:\Projects\CodeSamples\CodeSamples\obj\Debug\net6.0\CodeSamples.pdb
+D:\Projects\CodeSamples\CodeSamples\obj\Debug\net6.0\CodeSamples.genruntimeconfig.cache
+D:\Projects\CodeSamples\CodeSamples\obj\Debug\net6.0\ref\CodeSamples.dll
