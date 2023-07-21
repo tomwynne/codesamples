@@ -1,0 +1,7 @@
+D:\Projects\CalculatorService\bin\CalculatorService.dll.config
+D:\Projects\CalculatorService\bin\CalculatorService.dll
+D:\Projects\CalculatorService\bin\CalculatorService.pdb
+D:\Projects\CalculatorService\obj\Release\CalculatorService.csproj.AssemblyReference.cache
+D:\Projects\CalculatorService\obj\Release\CalculatorService.csproj.CoreCompileInputs.cache
+D:\Projects\CalculatorService\obj\Release\CalculatorService.dll
+D:\Projects\CalculatorService\obj\Release\CalculatorService.pdb

@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>D:\Projects\codesamples\WcfService1\bin\app.publish\</_PublishTargetUrl>
+    <History>True|2023-07-20T17:52:25.7347241Z;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/WcfService1.dll">
+      <publishTime>07/20/2023 10:52:25</publishTime>
+    </File>
+    <File Include="bin/WcfService1.pdb">
+      <publishTime>07/20/2023 10:52:25</publishTime>
+    </File>
+    <File Include="Service1.svc">
+      <publishTime>07/20/2023 10:16:53</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>07/20/2023 10:52:25</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

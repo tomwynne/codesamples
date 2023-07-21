@@ -1,0 +1,8 @@
+D:\Projects\CalculatorClient\bin\Debug\CalculatorClient.exe.config
+D:\Projects\CalculatorClient\bin\Debug\CalculatorClient.exe
+D:\Projects\CalculatorClient\bin\Debug\CalculatorClient.pdb
+D:\Projects\CalculatorClient\obj\Debug\CalculatorClient.csproj.AssemblyReference.cache
+D:\Projects\CalculatorClient\obj\Debug\CalculatorClient.csproj.SuggestedBindingRedirects.cache
+D:\Projects\CalculatorClient\obj\Debug\CalculatorClient.csproj.CoreCompileInputs.cache
+D:\Projects\CalculatorClient\obj\Debug\CalculatorClient.exe
+D:\Projects\CalculatorClient\obj\Debug\CalculatorClient.pdb
